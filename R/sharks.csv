@@ -1,0 +1,533 @@
+Species Name,Date,Area,Location,Latitude,Longitude,Length (m),Water Temp (C),Month,Day of Week
+AUSTRALIAN BLACKTIP,2016-11-16,Cairns,Holloways Beach,-16°49.82,145°44.85,1,27,November,Wednesday
+BLACKTIP REEF WHALER,2016-01-02,Cairns,Buchans Point Beach,-16°43.56,145°39.78,0.7,27,January,Saturday
+BLACKTIP REEF WHALER,2016-01-02,Cairns,Ellis Beach,-16°43.3,145°39.01,1.5,27,January,Saturday
+BLACKTIP REEF WHALER,2016-01-05,Mackay,Harbour Beach,-21°7.08,149°13.62,2.2,26,January,Tuesday
+BLACKTIP REEF WHALER,2016-01-07,Mackay,Harbour Beach,-21°7.1,149°13.68,1.7,26,January,Thursday
+BLACKTIP REEF WHALER,2016-01-13,Cairns,Holloways Beach,-16°49.89,145°44.91,1.2,29,January,Wednesday
+BLACKTIP REEF WHALER,2016-01-20,Cairns,Palm Cove,-16°44.74,145°40.53,0.75,30,January,Wednesday
+BLACKTIP REEF WHALER,2016-02-15,Townsville,Alma Bay,-19°9.06,146°52.45,1.2,31,February,Monday
+BLACKTIP REEF WHALER,2016-03-22,Cairns,Clifton Beach,-16°45.58,145°40.93,0.8,29,March,Tuesday
+BLACKTIP REEF WHALER,2016-04-02,Cairns,Trinity Beach,-16°46.5,145°41.97,1.3,29,April,Saturday
+BLACKTIP REEF WHALER,2016-04-13,Cairns,Trinity Beach,-16°46.72,145°42.1,1.6,27,April,Wednesday
+BLACKTIP REEF WHALER,2016-05-11,Capricorn Coast,Farnborough Beach,-23°7.25,150°45.21,1.05,25,May,Wednesday
+BLACKTIP REEF WHALER,2016-05-25,Townsville,Nelly Bay,-19°10.05,146°51.21,1.22,23,May,Wednesday
+BLACKTIP REEF WHALER,2016-05-28,Cairns,Ellis Beach,-16°43.36,145°39.08,0.8,25,May,Saturday
+BLACKTIP REEF WHALER,2016-06-11,Cairns,Ellis Beach,-16°43.21,145°38.85,1.2,25,June,Saturday
+BLACKTIP REEF WHALER,2016-07-27,Townsville,Radical Bay,-19°6.51,146°52.63,1.1,24,July,Wednesday
+BLACKTIP REEF WHALER,2016-07-29,Townsville,The Strand,-19°14.44,146°48.77,1.13,23,July,Friday
+BLACKTIP REEF WHALER,2016-09-24,Townsville,Florence Bay,-19°7.3,146°53.12,1.25,27,September,Saturday
+BLACKTIP REEF WHALER,2016-10-19,Cairns,Holloways Beach,-16°49.82,145°44.85,0.85,26,October,Wednesday
+BLACKTIP REEF WHALER,2016-10-21,Mackay,Harbour Beach,-21°7.08,149°13.62,1.8,25,October,Friday
+BLACKTIP REEF WHALER,2016-12-17,Gladstone,Tannum Sands,-23°56.91,151°22.9,0.9,27,December,Saturday
+BULL WHALER,2016-01-02,Gold Coast,Tallebudgera Beach,-28°5.47,153°28.26,2.5,25,January,Saturday
+BULL WHALER,2016-01-06,Capricorn Coast,Lammermoor Beach,-23°9.16,150°46.2,0.98,27,January,Wednesday
+BULL WHALER,2016-01-07,Mackay,Bucasia Beach,-21°1.46,149°9.97,2.2,26,January,Thursday
+BULL WHALER,2016-01-10,Mackay,Eimeo Beach,-21°1.8,149°10.8,2,26,January,Sunday
+BULL WHALER,2016-01-12,Rainbow Beach,Rainbow Beach,-25°53.92,153°5.87,2.85,25,January,Tuesday
+BULL WHALER,2016-01-21,Capricorn Coast,Yeppoon,-23°7.58,150°45.28,0.83,27,January,Thursday
+BULL WHALER,2016-01-30,Capricorn Coast,Emu Park,-23°15.66,150°49.92,1.14,28,January,Saturday
+BULL WHALER,2016-01-30,Capricorn Coast,Emu Park,-23°15.77,150°49.89,1.05,28,January,Saturday
+BULL WHALER,2016-02-02,Sunshine Coast South & Bribie Island,Point Cartwright,-26°40.97,153°8.51,1,24,February,Tuesday
+BULL WHALER,2016-02-05,Townsville,Florence Bay,-19°7.3,146°53.12,1.1,31,February,Friday
+BULL WHALER,2016-02-09,Capricorn Coast,Emu Park,-23°15.73,150°49.9,0.67,27,February,Tuesday
+BULL WHALER,2016-02-11,Capricorn Coast,Farnborough Beach,-23°6.82,150°45.26,1.12,27,February,Thursday
+BULL WHALER,2016-02-12,Townsville,Alma Bay,-19°9.06,146°52.45,2,30,February,Friday
+BULL WHALER,2016-02-16,Capricorn Coast,Kemp Beach,-23°11.23,150°47.92,0.95,26,February,Tuesday
+BULL WHALER,2016-02-18,Capricorn Coast,Emu Park,-23°15.66,150°49.92,1.08,27,February,Thursday
+BULL WHALER,2016-02-18,Capricorn Coast,Yeppoon,-23°7.8,150°45.26,1.15,27,February,Thursday
+BULL WHALER,2016-02-19,Capricorn Coast,Mulambin Beach,-23°11.41,150°47.93,1.07,27,February,Friday
+BULL WHALER,2016-02-19,Capricorn Coast,Tanby Point,-23°13.87,150°49.51,1.15,27,February,Friday
+BULL WHALER,2016-02-22,Gladstone,Tannum Sands,-23°57.03,151°23.04,2.25,28,February,Monday
+BULL WHALER,2016-02-22,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.6,28,February,Monday
+BULL WHALER,2016-02-25,Sunshine Coast South & Bribie Island,Bribie Island,-27°4.19,153°12.7,1.74,24,February,Thursday
+BULL WHALER,2016-02-26,Capricorn Coast,Emu Park,-23°15.61,150°49.94,0.8,27,February,Friday
+BULL WHALER,2016-02-26,Capricorn Coast,Tanby Point,-23°14.5,150°49.67,0.85,27,February,Friday
+BULL WHALER,2016-02-26,Gold Coast,Nobby Beach,-28°3.22,153°26.54,1.85,27,February,Friday
+BULL WHALER,2016-02-27,Capricorn Coast,Emu Park,-23°15.16,150°50.08,1.25,27,February,Saturday
+BULL WHALER,2016-02-27,Capricorn Coast,Lammermoor Beach,-23°10.03,150°47.68,0.82,27,February,Saturday
+BULL WHALER,2016-02-27,Capricorn Coast,Mulambin Beach,-23°13.57,150°49.45,1.08,27,February,Saturday
+BULL WHALER,2016-02-27,Capricorn Coast,Yeppoon,-23°7.58,150°45.28,0.95,27,February,Saturday
+BULL WHALER,2016-02-27,Capricorn Coast,Yeppoon,-23°7.74,150°45.27,0.89,27,February,Saturday
+BULL WHALER,2016-03-04,Sunshine Coast North,Sunrise Beach,-26°25.04,153°6.98,2.15,24,March,Friday
+BULL WHALER,2016-03-13,Capricorn Coast,Kemp Beach,-23°10.13,150°47.69,0.82,26,March,Sunday
+BULL WHALER,2016-03-13,Capricorn Coast,Tanby Point,-23°13.7,150°49.45,0.87,26,March,Sunday
+BULL WHALER,2016-03-14,Capricorn Coast,Emu Park,-23°15.69,150°49.91,0.78,26,March,Monday
+BULL WHALER,2016-03-14,Capricorn Coast,Kemp Beach,-23°10.23,150°47.69,1.21,26,March,Monday
+BULL WHALER,2016-03-23,Capricorn Coast,Mulambin Beach,-23°11.3,150°47.92,1.05,27,March,Wednesday
+BULL WHALER,2016-03-25,Cairns,Holloways Beach,-16°49.89,145°44.91,2.5,29,March,Friday
+BULL WHALER,2016-04-01,Nth Stradbroke Is.,Ocean Beach,-27°27.2,153°32.41,2.1,26,April,Friday
+BULL WHALER,2016-04-08,Sunshine Coast North,Marcoola Beach,-26°34.94,153°6.15,2.13,24,April,Friday
+BULL WHALER,2016-04-11,Capricorn Coast,Fishermans Beach,-23°14.57,150°49.68,1.25,26,April,Monday
+BULL WHALER,2016-04-18,Townsville,Horseshoe Bay,-19°6.22,146°51.57,2.65,27,April,Monday
+BULL WHALER,2016-04-28,Townsville,Florence Bay,-19°7.39,146°53.11,1.9,26,April,Thursday
+BULL WHALER,2016-04-28,Townsville,The Strand,-19°14.29,146°48.61,1.5,26,April,Thursday
+BULL WHALER,2016-04-30,Gold Coast,Rainbow Bay,-28°9.49,153°32.51,1.6,24,April,Saturday
+BULL WHALER,2016-05-02,Capricorn Coast,Emu Park,-23°15.69,150°49.91,0.72,27,May,Monday
+BULL WHALER,2016-05-03,Capricorn Coast,Fishermans Beach,-23°14.57,150°49.68,0.84,26,May,Tuesday
+BULL WHALER,2016-05-06,Gladstone,Tannum Sands,-23°56.98,151°22.96,1.85,25,May,Friday
+BULL WHALER,2016-05-07,Bundaberg,Neilson Park,-24°48.49,152°27.94,1.8,24,May,Saturday
+BULL WHALER,2016-05-07,Capricorn Coast,Fishermans Beach,-23°14.86,150°49.98,1.12,24,May,Saturday
+BULL WHALER,2016-05-07,Capricorn Coast,Tanby Point,-23°13.7,150°49.45,1.43,25,May,Saturday
+BULL WHALER,2016-05-10,Mackay,Harbour Beach,-21°7.05,149°13.69,1.9,25,May,Tuesday
+BULL WHALER,2016-05-23,Capricorn Coast,Fishermans Beach,-23°14.62,150°49.68,0.93,24,May,Monday
+BULL WHALER,2016-05-23,Gladstone,Tannum Sands,-23°56.91,151°22.9,1.55,24,May,Monday
+BULL WHALER,2016-05-28,Sunshine Coast North,Sunrise Beach,-26°25.1,153°6.97,1.45,23,May,Saturday
+BULL WHALER,2016-06-03,Gold Coast,Tallebudgera Beach,-28°5.47,153°28.26,1.77,22,June,Friday
+BULL WHALER,2016-06-04,Capricorn Coast,Farnborough Beach,-23°7.14,150°45.22,0.84,24,June,Saturday
+BULL WHALER,2016-06-04,Capricorn Coast,Tanby Point,-23°13.87,150°49.51,0.78,24,June,Saturday
+BULL WHALER,2016-06-08,Sunshine Coast North,Maroochydore Beach,-26°39.27,153°6.66,1.52,23,June,Wednesday
+BULL WHALER,2016-06-11,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,1.83,21,June,Saturday
+BULL WHALER,2016-06-11,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.42,23,June,Saturday
+BULL WHALER,2016-06-11,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.55,23,June,Saturday
+BULL WHALER,2016-06-17,Capricorn Coast,Fishermans Beach,-23°14.67,150°49.69,0.89,22,June,Friday
+BULL WHALER,2016-06-20,Townsville,Horseshoe Bay,-19°6.22,146°51.57,1.09,24,June,Monday
+BULL WHALER,2016-06-21,Sunshine Coast North,Maroochydore Beach,-26°39.27,153°6.66,1.56,23,June,Tuesday
+BULL WHALER,2016-06-27,Bundaberg,Neilson Park,-24°48.4,152°27.91,1.64,20,June,Monday
+BULL WHALER,2016-06-30,Sunshine Coast South & Bribie Island,Caloundra,-26°48.55,153°8.73,1.45,22,June,Thursday
+BULL WHALER,2016-07-09,Gladstone,Tannum Sands,-23°56.22,151°22.46,1.1,18,July,Saturday
+BULL WHALER,2016-07-11,Gold Coast,Miami Beach,-28°4,153°27.04,1.88,20,July,Monday
+BULL WHALER,2016-07-27,Gladstone,Tannum Sands,-23°56.62,151°22.58,1.2,19,July,Wednesday
+BULL WHALER,2016-08-02,Gladstone,Tannum Sands,-23°56.49,151°22.49,0.9,20,August,Tuesday
+BULL WHALER,2016-08-02,Townsville,Radical Bay,-19°6.51,146°52.63,2,20,August,Tuesday
+BULL WHALER,2016-08-10,Bundaberg,Neilson Park,-24°48.23,152°27.75,1.73,17,August,Wednesday
+BULL WHALER,2016-08-11,Gold Coast,Surfers Paradise Beach,-28°0.09,153°26.16,1.7,20,August,Thursday
+BULL WHALER,2016-08-12,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.6,20,August,Friday
+BULL WHALER,2016-08-18,Townsville,Nelly Bay,-19°10.52,146°50.97,1.35,23,August,Thursday
+BULL WHALER,2016-08-24,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.69,2.08,21,August,Wednesday
+BULL WHALER,2016-08-25,Townsville,Horseshoe Bay,-19°6.26,146°51.56,2.8,23,August,Thursday
+BULL WHALER,2016-09-20,Bundaberg,Neilson Park,-24°48.32,152°27.82,1.6,21,September,Tuesday
+BULL WHALER,2016-10-04,Bundaberg,Neilson Park,-24°48.49,152°27.94,1.68,22,October,Tuesday
+BULL WHALER,2016-10-17,Capricorn Coast,Tanby Point,-23°14.5,150°49.67,0.84,23,October,Monday
+BULL WHALER,2016-10-19,Townsville,Horseshoe Bay,-19°6.22,146°51.57,2.1,27,October,Wednesday
+BULL WHALER,2016-10-26,Gladstone,Tannum Sands,-23°56.62,151°22.58,2,24,October,Wednesday
+BULL WHALER,2016-10-28,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.25,23,October,Friday
+BULL WHALER,2016-11-06,Gladstone,Tannum Sands,-23°56.62,151°22.58,1.2,25,November,Sunday
+BULL WHALER,2016-11-12,Gladstone,Tannum Sands,-23°56.71,151°22.72,1.97,27,November,Saturday
+BULL WHALER,2016-11-25,Capricorn Coast,Emu Park,-23°15.69,150°49.91,1.1,26,November,Friday
+BULL WHALER,2016-11-30,Townsville,The Strand,-19°14.7,146°49.04,1.3,29,November,Wednesday
+BULL WHALER,2016-12-08,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,2.56,20,December,Thursday
+BULL WHALER,2016-12-08,Sunshine Coast North,Noosa,-26°22.91,153°5.56,2.61,23,December,Thursday
+BULL WHALER,2016-12-23,Townsville,Pallarenda Beach,-19°11.98,146°46.66,1.5,30,December,Friday
+BULL WHALER,2016-12-24,Capricorn Coast,Mulambin Beach,-23°13.57,150°49.45,0.91,26,December,Saturday
+BULL WHALER,2016-12-31,Capricorn Coast,Tanby Point,-23°13.78,150°49.48,0.78,26,December,Saturday
+COMMON BLACKTIP WHALER,2016-01-03,Gladstone,Tannum Sands,-23°56.87,151°22.84,1.4,26,January,Sunday
+COMMON BLACKTIP WHALER,2016-02-10,Gladstone,Tannum Sands,-23°56.98,151°22.96,1,29,February,Wednesday
+COMMON BLACKTIP WHALER,2016-02-12,Gladstone,Tannum Sands,-23°56.98,151°22.96,1.2,27,February,Friday
+COMMON BLACKTIP WHALER,2016-02-12,Gladstone,Tannum Sands,-23°56.55,151°22.54,1,27,February,Friday
+COMMON BLACKTIP WHALER,2016-02-17,Gladstone,Tannum Sands,-23°56.77,151°22.75,1.1,28,February,Wednesday
+COMMON BLACKTIP WHALER,2016-02-22,Gladstone,Tannum Sands,-23°57.03,151°23.04,0.8,28,February,Monday
+COMMON BLACKTIP WHALER,2016-02-29,Gladstone,Tannum Sands,-23°56.62,151°22.58,0.95,28,February,Monday
+COMMON BLACKTIP WHALER,2016-03-03,Rainbow Beach,Rainbow Beach,-25°53.71,153°5.94,1.65,26,March,Thursday
+COMMON BLACKTIP WHALER,2016-03-16,Gladstone,Tannum Sands,-23°56.87,151°22.84,1.1,27,March,Wednesday
+COMMON BLACKTIP WHALER,2016-03-20,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.25,27,March,Sunday
+COMMON BLACKTIP WHALER,2016-03-25,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.1,27,March,Friday
+COMMON BLACKTIP WHALER,2016-03-26,Gladstone,Tannum Sands,-23°56.55,151°22.54,1,27,March,Saturday
+COMMON BLACKTIP WHALER,2016-04-09,Gladstone,Tannum Sands,-23°56.55,151°22.54,0.95,28,April,Saturday
+COMMON BLACKTIP WHALER,2016-04-12,Gladstone,Tannum Sands,-23°56.62,151°22.58,0.9,26,April,Tuesday
+COMMON BLACKTIP WHALER,2016-04-20,Gladstone,Tannum Sands,-23°56.98,151°22.96,1.3,25,April,Wednesday
+COMMON BLACKTIP WHALER,2016-05-06,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.3,25,May,Friday
+COMMON BLACKTIP WHALER,2016-05-21,Gladstone,Tannum Sands,-23°56.22,151°22.46,1.4,26,May,Saturday
+COMMON BLACKTIP WHALER,2016-06-04,Gladstone,Tannum Sands,-23°56.68,151°22.67,1.2,22,June,Saturday
+COMMON BLACKTIP WHALER,2016-06-08,Gladstone,Tannum Sands,-23°56.82,151°22.78,1.1,21,June,Wednesday
+COMMON BLACKTIP WHALER,2016-06-16,Townsville,Alma Bay,-19°9.02,146°52.43,1.3,24,June,Thursday
+COMMON BLACKTIP WHALER,2016-06-16,Townsville,Florence Bay,-19°7.35,146°53.11,1.2,24,June,Thursday
+COMMON BLACKTIP WHALER,2016-06-22,Gladstone,Tannum Sands,-23°56.91,151°22.9,1.1,20,June,Wednesday
+COMMON BLACKTIP WHALER,2016-08-18,Gladstone,Tannum Sands,-23°56.91,151°22.9,0.9,19,August,Thursday
+COMMON BLACKTIP WHALER,2016-08-18,Gladstone,Tannum Sands,-23°57.03,151°23.04,0.85,19,August,Thursday
+COMMON BLACKTIP WHALER,2016-08-29,Gladstone,Tannum Sands,-23°56.82,151°22.78,0.9,20,August,Monday
+COMMON BLACKTIP WHALER,2016-09-10,Gladstone,Tannum Sands,-23°56.49,151°22.49,0.8,21,September,Saturday
+COMMON BLACKTIP WHALER,2016-09-20,Gladstone,Tannum Sands,-23°56.91,151°22.9,0.75,23,September,Tuesday
+COMMON BLACKTIP WHALER,2016-10-17,Townsville,Picnic Bay,-19°10.92,146°50.59,1.35,26,October,Monday
+COMMON BLACKTIP WHALER,2016-10-19,Gladstone,Tannum Sands,-23°56.98,151°22.96,0.9,24,October,Wednesday
+COMMON BLACKTIP WHALER,2016-10-19,Gladstone,Tannum Sands,-23°56.49,151°22.49,1,24,October,Wednesday
+COMMON BLACKTIP WHALER,2016-10-23,Gladstone,Tannum Sands,-23°56.77,151°22.75,1.06,24,October,Sunday
+COMMON BLACKTIP WHALER,2016-11-01,Gladstone,Tannum Sands,-23°57.03,151°23.04,1,25,November,Tuesday
+COMMON BLACKTIP WHALER,2016-11-03,Gladstone,Tannum Sands,-23°56.49,151°22.49,1,25,November,Thursday
+COMMON BLACKTIP WHALER,2016-11-16,Cairns,Clifton Beach,-16°45.54,145°40.91,1.1,27,November,Wednesday
+COMMON BLACKTIP WHALER,2016-11-19,Gladstone,Tannum Sands,-23°56.71,151°22.72,0.95,25,November,Saturday
+COMMON BLACKTIP WHALER,2016-11-22,Townsville,Alma Bay,-19°9.02,146°52.43,1.45,28,November,Tuesday
+COMMON BLACKTIP WHALER,2016-11-26,Gladstone,Tannum Sands,-23°57.03,151°23.04,1.08,27,November,Saturday
+COMMON BLACKTIP WHALER,2016-12-16,Gladstone,Tannum Sands,-23°56.77,151°22.75,0.95,27,December,Friday
+COMMON BLACKTIP WHALER,2016-12-17,Cairns,Palm Cove,-16°44.93,145°40.58,0.9,28,December,Saturday
+CREEK WHALER,2016-09-13,Cairns,Clifton Beach,-16°45.62,145°40.97,0.75,24,September,Tuesday
+DUSKY WHALER,2016-02-11,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.8,25,February,Thursday
+DUSKY WHALER,2016-02-11,Rainbow Beach,Rainbow Beach,-25°53.92,153°5.87,2.6,25,February,Thursday
+DUSKY WHALER,2016-07-05,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.89,3.3,20,July,Tuesday
+DUSKY WHALER,2016-12-02,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.69,2.62,25,December,Friday
+GRACEFUL WHALER,2016-05-25,Townsville,Horseshoe Bay,-19°6.8,146°50.79,1.17,25,May,Wednesday
+GREAT HAMMERHEAD,2016-02-04,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.35,26,February,Thursday
+GREAT HAMMERHEAD,2016-02-22,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,2.49,27,February,Monday
+GREAT HAMMERHEAD,2016-03-04,Sunshine Coast North,Noosa,-26°22.69,153°5.58,2.13,24,March,Friday
+GREAT HAMMERHEAD,2016-04-05,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,2.85,26,April,Tuesday
+GREAT HAMMERHEAD,2016-04-07,Sunshine Coast North,Noosa,-26°22.91,153°5.56,2.85,24,April,Thursday
+GREAT HAMMERHEAD,2016-07-15,Sunshine Coast North,Noosa,-26°22.69,153°5.58,1.25,23,July,Friday
+GREAT HAMMERHEAD,2016-07-16,Townsville,Pallarenda Beach,-19°11.98,146°46.66,2.9,22,July,Saturday
+GREAT HAMMERHEAD,2016-07-19,Townsville,Nelly Bay,-19°10.52,146°50.97,2.15,22,July,Tuesday
+GREAT HAMMERHEAD,2016-08-10,Townsville,Florence Bay,-19°7.39,146°53.11,2.3,23,August,Wednesday
+GREAT HAMMERHEAD,2016-08-17,Sunshine Coast North,Noosa,-26°22.91,153°5.56,2.21,23,August,Wednesday
+GREAT HAMMERHEAD,2016-09-02,Townsville,The Strand,-19°14.36,146°48.68,2.4,23,September,Friday
+GREAT HAMMERHEAD,2016-09-03,Townsville,Nelly Bay,-19°10.25,146°51.1,2.5,24,September,Saturday
+GREAT HAMMERHEAD,2016-09-22,Gold Coast,Coolangatta Beach,-28°9.31,153°32.16,1.5,20,September,Thursday
+GREAT HAMMERHEAD,2016-10-13,Townsville,Horseshoe Bay,-19°6.8,146°50.79,3.1,27,October,Thursday
+GREAT HAMMERHEAD,2016-11-01,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.41,23,November,Tuesday
+GREAT HAMMERHEAD,2016-11-01,Sunshine Coast South & Bribie Island,Alexandra Headland,-26°40.15,153°7.03,1.3,22,November,Tuesday
+GREAT HAMMERHEAD,2016-11-06,Rainbow Beach,Rainbow Beach,-25°53.92,153°5.87,2.16,24,November,Sunday
+GREAT HAMMERHEAD,2016-11-27,Gold Coast,Kurrawa Beach,-28°1.37,153°26.32,3.5,23,November,Sunday
+GREAT HAMMERHEAD,2016-11-28,Gold Coast,Main Beach,-27°58.24,153°26.07,1.93,24,November,Monday
+GREAT HAMMERHEAD,2016-11-30,Townsville,Radical Bay,-19°6.54,146°52.68,1.6,29,November,Wednesday
+GREAT HAMMERHEAD,2016-12-03,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.45,23,December,Saturday
+GREAT HAMMERHEAD,2016-12-08,Sunshine Coast South & Bribie Island,Mooloolaba Beach,-26°40.64,153°7.4,1.55,24,December,Thursday
+GREY NURSE SHARK,2016-01-06,Sunshine Coast North,Noosa,-26°22.69,153°5.58,2.3,25,January,Wednesday
+HARDNOSE WHALER,2016-05-07,Capricorn Coast,Lammermoor Beach,-23°9.27,150°46.25,0.74,25,May,Saturday
+HARDNOSE WHALER,2016-11-19,Cairns,Palm Cove,-16°44.74,145°40.53,0.8,27,November,Saturday
+HARDNOSE WHALER,2016-11-23,Cairns,Ellis Beach,-16°43.3,145°39.01,0.75,27,November,Wednesday
+HARDNOSE WHALER,2016-11-24,Capricorn Coast,Lammermoor Beach,-23°9.36,150°46.32,0.89,25,November,Thursday
+HARDNOSE WHALER,2016-11-25,Capricorn Coast,Lammermoor Beach,-23°9.36,150°46.32,0.89,26,November,Friday
+HARDNOSE WHALER,2016-10-03,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.1,23,October,Monday
+LONG NOSE WHALER,2016-01-02,Sunshine Coast South & Bribie Island,Alexandra Headland,-26°39.96,153°6.86,1.65,24,January,Saturday
+LONG NOSE WHALER,2016-01-02,Sunshine Coast South & Bribie Island,Alexandra Headland,-26°40.15,153°7.03,1.75,24,January,Saturday
+LONG NOSE WHALER,2016-01-03,Sunshine Coast South & Bribie Island,Mooloolaba Beach,-26°40.64,153°7.4,2.72,24,January,Sunday
+LONG NOSE WHALER,2016-01-09,Capricorn Coast,Cooee Bay,-23°8.33,150°45.75,0.74,27,January,Saturday
+LONG NOSE WHALER,2016-01-12,Rainbow Beach,Rainbow Beach,-25°53.92,153°5.87,2.6,25,January,Tuesday
+LONG NOSE WHALER,2016-01-27,Rainbow Beach,Rainbow Beach,-25°54.02,153°5.99,1.7,25,January,Wednesday
+LONG NOSE WHALER,2016-02-02,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,2.65,21,February,Tuesday
+LONG NOSE WHALER,2016-02-02,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,2.4,21,February,Tuesday
+LONG NOSE WHALER,2016-02-02,Gold Coast,Coolangatta Beach,-28°9.31,153°32.16,2.73,21,February,Tuesday
+LONG NOSE WHALER,2016-02-02,Gold Coast,Coolangatta Beach,-28°9.31,153°32.16,2.83,21,February,Tuesday
+LONG NOSE WHALER,2016-02-02,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,2.37,21,February,Tuesday
+LONG NOSE WHALER,2016-02-03,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,2.75,22,February,Wednesday
+LONG NOSE WHALER,2016-02-09,Sunshine Coast North,Noosa,-26°22.91,153°5.56,2.34,24,February,Tuesday
+LONG NOSE WHALER,2016-02-09,Sunshine Coast South & Bribie Island,Alexandra Headland,-26°39.96,153°6.86,2.25,24,February,Tuesday
+LONG NOSE WHALER,2016-02-11,Rainbow Beach,Rainbow Beach,-25°53.92,153°5.87,2.2,25,February,Thursday
+LONG NOSE WHALER,2016-02-15,Gold Coast,Burleigh Beach,-28°4.58,153°27.29,2.5,26,February,Monday
+LONG NOSE WHALER,2016-02-26,Sunshine Coast North,Noosa,-26°22.2,153°6.55,1.24,24,February,Friday
+LONG NOSE WHALER,2016-03-04,Sunshine Coast North,Maroochydore Beach,-26°39.27,153°6.66,1,24,March,Friday
+LONG NOSE WHALER,2016-03-09,Sunshine Coast North,Marcoola Beach,-26°34.94,153°6.15,2.15,24,March,Wednesday
+LONG NOSE WHALER,2016-03-12,Sunshine Coast North,Marcoola Beach,-26°34.94,153°6.15,2.15,24,March,Saturday
+LONG NOSE WHALER,2016-03-12,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.2,24,March,Saturday
+LONG NOSE WHALER,2016-03-15,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.35,26,March,Tuesday
+LONG NOSE WHALER,2016-04-07,Sunshine Coast North,Noosa,-26°22.69,153°5.58,1.1,24,April,Thursday
+LONG NOSE WHALER,2016-04-07,Sunshine Coast North,Noosa,-26°22.91,153°5.56,1.75,24,April,Thursday
+LONG NOSE WHALER,2016-04-08,Sunshine Coast North,Marcoola Beach,-26°34.94,153°6.15,1.23,24,April,Friday
+LONG NOSE WHALER,2016-05-04,Sunshine Coast North,Marcoola Beach,-26°34.94,153°6.15,1.47,24,May,Wednesday
+LONG NOSE WHALER,2016-05-19,Townsville,Horseshoe Bay,-19°6.67,146°50.54,1.3,26,May,Thursday
+LONG NOSE WHALER,2016-05-20,Gold Coast,Burleigh Beach,-28°4.58,153°27.29,1.3,23,May,Friday
+LONG NOSE WHALER,2016-05-20,Gold Coast,Burleigh Beach,-28°4.58,153°27.29,1.4,23,May,Friday
+LONG NOSE WHALER,2016-06-25,Cairns,Buchans Point Beach,-16°43.59,145°39.83,0.8,25,June,Saturday
+LONG NOSE WHALER,2016-07-23,Cairns,Clifton Beach,-16°45.54,145°40.91,0.7,23,July,Saturday
+LONG NOSE WHALER,2016-07-26,Sunshine Coast North,Maroochydore Beach,-26°39.27,153°6.66,1,19,July,Tuesday
+LONG NOSE WHALER,2016-08-18,Townsville,Nelly Bay,-19°10.67,146°50.97,1.2,23,August,Thursday
+LONG NOSE WHALER,2016-09-27,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,1.2,20,September,Tuesday
+LONG NOSE WHALER,2016-12-01,Sunshine Coast North,Noosa,-26°22.69,153°5.58,1.38,24,December,Thursday
+LONG NOSE WHALER,2016-12-24,Sunshine Coast South & Bribie Island,Caloundra,-26°48.41,153°8.81,1.4,24,December,Saturday
+MAKO,2016-07-19,Gold Coast,Burleigh Beach,-28°4.58,153°27.29,1.83,20,July,Tuesday
+MAKO,2016-08-08,Gold Coast,Miami Beach,-28°4,153°27.04,2.3,20,August,Monday
+MAKO,2016-08-11,Nth Stradbroke Is.,Ocean Beach,-27°26.76,153°32.71,3,20,August,Thursday
+MAKO,2016-09-09,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.69,2.02,20,September,Friday
+MAKO,2016-10-04,Sunshine Coast North,Sunshine Beach,-26°24.31,153°7.06,3.34,23,October,Tuesday
+MILK SHARK,2016-01-01,Townsville,Radical Bay,-19°6.45,146°52.51,0.8,29,January,Friday
+MILK SHARK,2016-09-17,Cairns,Trinity Beach,-16°46.5,145°41.97,0.8,25,September,Saturday
+MILK SHARK,2016-11-22,Townsville,Radical Bay,-19°6.47,146°52.55,0.75,28,November,Tuesday
+PIGEYE WHALER,2016-01-28,Townsville,Horseshoe Bay,-19°6.22,146°51.57,1.5,30,January,Thursday
+PIGEYE WHALER,2016-02-04,Bundaberg,Kellys Beach,-24°49.11,152°28.3,1.14,27,February,Thursday
+PIGEYE WHALER,2016-02-11,Bundaberg,Bargara,-24°48.55,152°27.94,1.1,27,February,Thursday
+PIGEYE WHALER,2016-03-08,Bundaberg,Kellys Beach,-24°49.62,152°28.26,1.46,25,March,Tuesday
+PIGEYE WHALER,2016-03-16,Cairns,Holloways Beach,-16°49.92,145°44.94,1.3,29,March,Wednesday
+PIGEYE WHALER,2016-04-06,Cairns,Ellis Beach,-16°43.21,145°38.85,2,27,April,Wednesday
+PIGEYE WHALER,2016-04-28,Townsville,Radical Bay,-19°6.51,146°52.63,1.6,26,April,Thursday
+PIGEYE WHALER,2016-06-18,Townsville,Horseshoe Bay,-19°6.13,146°51.59,2.25,24,June,Saturday
+PIGEYE WHALER,2016-09-11,Bundaberg,Kellys Beach,-24°49.25,152°28.33,1.56,20,September,Sunday
+PIGEYE WHALER,2016-09-26,Bundaberg,Neilson Park,-24°48.23,152°27.75,1.46,21,September,Monday
+PIGEYE WHALER,2016-10-11,Bundaberg,Kellys Beach,-24°49.25,152°28.33,1.57,23,October,Tuesday
+PIGEYE WHALER,2016-11-05,Cairns,Ellis Beach,-16°43.26,145°38.96,1.1,28,November,Saturday
+PIGEYE WHALER,2016-11-22,Townsville,Radical Bay,-19°6.49,146°52.59,1.08,28,November,Tuesday
+PIGEYE WHALER,2016-12-10,Bundaberg,Neilson Park,-24°48.09,152°27.59,1.38,25,December,Saturday
+SANDBAR WHALER,2016-03-26,Gladstone,Tannum Sands,-23°56.68,151°22.67,1.4,27,March,Saturday
+SANDBAR WHALER,2016-06-08,Gold Coast,Tallebudgera Beach,-28°5.47,153°28.26,1.68,22,June,Wednesday
+SANDBAR WHALER,2016-03-04,Sunshine Coast North,Noosa,-26°22.69,153°5.58,1.75,24,March,Friday
+SANDBAR WHALER,2016-09-14,Bundaberg,Neilson Park,-24°48.16,152°27.67,2.1,20,September,Wednesday
+SANDBAR WHALER,2016-09-24,Bundaberg,Neilson Park,-24°48.23,152°27.75,1.38,21,September,Saturday
+SCALLOPED HAMMERHEAD,2016-01-17,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.2,26,January,Sunday
+SCALLOPED HAMMERHEAD,2016-01-30,Gold Coast,Mermaid Beach,-28°2.23,153°26.44,2.39,24,January,Saturday
+SCALLOPED HAMMERHEAD,2016-04-03,Mackay,Bucasia Beach,-21°1.62,149°10.26,3.4,26,April,Sunday
+SCALLOPED HAMMERHEAD,2016-05-30,Capricorn Coast,Fishermans Beach,-23°14.86,150°49.98,1.91,24,May,Monday
+SCALLOPED HAMMERHEAD,2016-06-06,Mackay,Bucasia Beach,-21°1.62,149°10.26,2.6,25,June,Monday
+SCALLOPED HAMMERHEAD,2016-07-27,Nth Stradbroke Is.,Ocean Beach,-27°27.29,153°32.36,1.8,20,July,Wednesday
+SCALLOPED HAMMERHEAD,2016-08-29,Townsville,Horseshoe Bay,-19°6.22,146°51.57,0.52,23,August,Monday
+SCALLOPED HAMMERHEAD,2016-09-27,Gold Coast,Kirra Beach,-28°9.3,153°32.02,1.4,20,September,Tuesday
+SCALLOPED HAMMERHEAD,2016-09-28,Gold Coast,Coolangatta Beach,-28°9.31,153°32.16,1.5,20,September,Wednesday
+SCALLOPED HAMMERHEAD,2016-09-30,Cairns,Clifton Beach,-16°45.62,145°40.97,1.63,26,September,Friday
+SCALLOPED HAMMERHEAD,2016-10-19,Gold Coast,Mermaid Beach,-28°2.23,153°26.44,1.45,21,October,Wednesday
+SCALLOPED HAMMERHEAD,2016-10-19,Gold Coast,Miami Beach,-28°4,153°27.04,1.6,21,October,Wednesday
+SCALLOPED HAMMERHEAD,2016-11-19,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.69,1.55,23,November,Saturday
+SCALLOPED HAMMERHEAD,2016-11-28,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,1.5,24,November,Monday
+SCALLOPED HAMMERHEAD,2016-11-28,Gold Coast,Bilinga Beach,-28°8.59,153°30.42,1.36,24,November,Monday
+SCALLOPED HAMMERHEAD,2016-11-28,Gold Coast,Currumbin Beach,-28°7.4,153°29.35,1.74,24,November,Monday
+SHARPTOOTH SHARK,2016-01-12,Sunshine Coast South & Bribie Island,Alexandra Headland,-26°39.96,153°6.86,2.1,24,January,Tuesday
+SHARPTOOTH SHARK,2016-04-09,Bundaberg,Kellys Beach,-24°49.71,152°28.24,1.59,25,April,Saturday
+SHARPTOOTH SHARK,2016-04-15,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,2.4,26,April,Friday
+SHARPTOOTH SHARK,2016-11-24,Townsville,Nelly Bay,-19°10.05,146°51.21,2.35,28,November,Thursday
+SHARPTOOTH SHARK,2016-12-02,Bundaberg,Bargara,-24°48.65,152°27.99,1.95,25,December,Friday
+SLIT EYE SHARK,2016-08-02,Cairns,Ellis Beach,-16°43.21,145°38.85,0.7,23,August,Tuesday
+SPOT-TAIL WHALER,2016-01-02,Townsville,Radical Bay,-19°6.49,146°52.59,0.85,29,January,Saturday
+SPOT-TAIL WHALER,2016-01-02,Townsville,The Strand,-19°14.29,146°48.61,1.14,29,January,Saturday
+SPOT-TAIL WHALER,2016-01-05,Townsville,Radical Bay,-19°6.45,146°52.51,1.09,29,January,Tuesday
+SPOT-TAIL WHALER,2016-01-05,Townsville,The Strand,-19°14.29,146°48.61,1.12,29,January,Tuesday
+SPOT-TAIL WHALER,2016-01-16,Townsville,Horseshoe Bay,-19°6.13,146°51.59,1.05,29,January,Saturday
+SPOT-TAIL WHALER,2016-02-13,Townsville,Horseshoe Bay,-19°6.84,146°50.9,1.02,30,February,Saturday
+SPOT-TAIL WHALER,2016-02-24,Bundaberg,Neilson Park,-24°48.4,152°27.91,1.01,26,February,Wednesday
+SPOT-TAIL WHALER,2016-04-28,Townsville,Florence Bay,-19°7.44,146°53.11,1.1,26,April,Thursday
+SPOT-TAIL WHALER,2016-05-10,Townsville,Alma Bay,-19°9.11,146°52.46,1.18,27,May,Tuesday
+SPOT-TAIL WHALER,2016-05-10,Townsville,Pallarenda Beach,-19°11.98,146°46.66,1.05,27,May,Tuesday
+SPOT-TAIL WHALER,2016-06-04,Townsville,Alma Bay,-19°8.92,146°52.41,1,25,June,Saturday
+SPOT-TAIL WHALER,2016-06-04,Townsville,Picnic Bay,-19°10.97,146°50.67,1.18,25,June,Saturday
+SPOT-TAIL WHALER,2016-06-23,Townsville,Pallarenda Beach,-19°11.98,146°46.66,0.88,24,June,Thursday
+SPOT-TAIL WHALER,2016-08-30,Townsville,Pallarenda Beach,-19°11.98,146°46.66,1.06,23,August,Tuesday
+SPOT-TAIL WHALER,2016-09-05,Townsville,Alma Bay,-19°9.06,146°52.45,0.75,24,September,Monday
+SPOT-TAIL WHALER,2016-09-22,Capricorn Coast,Emu Park,-23°15.16,150°50.08,1.12,23,September,Thursday
+SPOT-TAIL WHALER,2016-09-22,Capricorn Coast,Emu Park,-23°15.61,150°49.94,1.18,23,September,Thursday
+SPOT-TAIL WHALER,2016-09-22,Capricorn Coast,Tanby Point,-23°13.78,150°49.48,1.05,23,September,Thursday
+SPOT-TAIL WHALER,2016-10-04,Capricorn Coast,Emu Park,-23°15.77,150°49.89,1.22,24,October,Tuesday
+SPOT-TAIL WHALER,2016-10-19,Townsville,Alma Bay,-19°9.11,146°52.46,1.05,27,October,Wednesday
+SPOT-TAIL WHALER,2016-11-16,Cairns,Trinity Beach,-16°46.76,145°42.13,0.93,27,November,Wednesday
+SPOT-TAIL WHALER,2016-12-26,Townsville,Florence Bay,-19°7.35,146°53.11,1.05,29,December,Monday
+TAWNY SHARK,2016-02-08,Townsville,Horseshoe Bay,-19°6.88,146°51.01,2,31,February,Monday
+TAWNY SHARK,2016-02-18,Townsville,The Strand,-19°14.21,146°48.53,2.6,32,February,Thursday
+TAWNY SHARK,2016-03-26,Mackay,Harbour Beach,-21°7.2,149°13.65,2.3,27,March,Saturday
+TAWNY SHARK,2016-03-26,Mackay,Lamberts Beach,-21°4.37,149°13.89,2.6,27,March,Saturday
+TAWNY SHARK,2016-03-26,Townsville,Horseshoe Bay,-19°6.75,146°50.7,2.1,29,March,Saturday
+TAWNY SHARK,2016-04-01,Cairns,Palm Cove,-16°44.65,145°40.51,2.1,29,April,Friday
+TAWNY SHARK,2016-04-06,Townsville,Horseshoe Bay,-19°6.75,146°50.7,1.7,28,April,Wednesday
+TAWNY SHARK,2016-04-23,Cairns,Palm Cove,-16°44.65,145°40.51,2.8,26,April,Saturday
+TAWNY SHARK,2016-04-30,Townsville,Nelly Bay,-19°10.67,146°50.97,1.8,26,April,Saturday
+TAWNY SHARK,2016-05-23,Townsville,Picnic Bay,-19°10.97,146°50.67,2.8,25,May,Monday
+TAWNY SHARK,2016-07-12,Mackay,Harbour Beach,-21°7.05,149°13.69,2.2,24,July,Tuesday
+TAWNY SHARK,2016-07-30,Townsville,Florence Bay,-19°7.44,146°53.11,2.34,23,July,Saturday
+TAWNY SHARK,2016-09-11,Mackay,Harbour Beach,-21°7.08,149°13.62,2.5,24,September,Sunday
+TAWNY SHARK,2016-09-28,Townsville,Horseshoe Bay,-19°6.93,146°51.25,2.3,27,September,Wednesday
+TAWNY SHARK,2016-10-03,Capricorn Coast,Fishermans Beach,-23°14.86,150°49.98,2.23,24,October,Monday
+TAWNY SHARK,2016-11-09,Mackay,Harbour Beach,-21°7.08,149°13.62,2.1,25,November,Wednesday
+TAWNY SHARK,2016-11-09,Mackay,Harbour Beach,-21°7.08,149°13.62,2,25,November,Wednesday
+TAWNY SHARK,2016-11-15,Cairns,Trinity Beach,-16°46.76,145°42.13,2.8,28,November,Tuesday
+TAWNY SHARK,2016-11-22,Townsville,Picnic Bay,-19°10.97,146°50.67,2.5,28,November,Tuesday
+TAWNY SHARK,2016-12-13,Townsville,Nelly Bay,-19°10.25,146°51.1,2.2,28,December,Tuesday
+TAWNY SHARK,2016-12-17,Bundaberg,Neilson Park,-24°48.23,152°27.75,2.25,25,December,Saturday
+TAWNY SHARK,2016-12-25,Mackay,Lamberts Beach,-21°4.27,149°13.87,3,27,December,Sunday
+TAWNY SHARK,2016-12-27,Townsville,Picnic Bay,-19°10.97,146°50.67,1.8,30,December,Tuesday
+TIGER SHARK,2016-01-01,Capricorn Coast,Yeppoon,-23°7.63,150°45.28,1.51,27,January,Friday
+TIGER SHARK,2016-01-03,Gladstone,Tannum Sands,-23°56.49,151°22.49,2.75,26,January,Sunday
+TIGER SHARK,2016-01-07,Bundaberg,Neilson Park,-24°48.16,152°27.67,1.97,25,January,Thursday
+TIGER SHARK,2016-01-09,Cairns,Ellis Beach,-16°43.26,145°38.96,1.2,29,January,Saturday
+TIGER SHARK,2016-01-09,Cairns,Trinity Beach,-16°46.76,145°42.13,1,29,January,Saturday
+TIGER SHARK,2016-01-09,Cairns,Trinity Beach,-16°46.76,145°42.13,3.9,29,January,Saturday
+TIGER SHARK,2016-01-12,Nth Stradbroke Is.,Cylinder Beach,-27°25.25,153°31.99,1.1,27,January,Tuesday
+TIGER SHARK,2016-01-13,Cairns,Holloways Beach,-16°49.89,145°44.91,3.4,29,January,Wednesday
+TIGER SHARK,2016-01-14,Mackay,Harbour Beach,-21°7.01,149°13.69,1.9,26,January,Thursday
+TIGER SHARK,2016-01-18,Rainbow Beach,Rainbow Beach,-25°53.54,153°5.77,2.6,26,January,Monday
+TIGER SHARK,2016-01-22,Gladstone,Tannum Sands,-23°56.68,151°22.67,3.85,27,January,Friday
+TIGER SHARK,2016-01-22,Mackay,Harbour Beach,-21°7.32,149°13.63,1.6,26,January,Friday
+TIGER SHARK,2016-01-23,Townsville,Horseshoe Bay,-19°6.26,146°51.56,1.85,30,January,Saturday
+TIGER SHARK,2016-01-24,Mackay,Blacks Beach,-21°2.72,149°11.54,1.4,26,January,Sunday
+TIGER SHARK,2016-01-26,Mackay,Harbour Beach,-21°7.28,149°13.56,3.2,27,January,Tuesday
+TIGER SHARK,2016-01-30,Townsville,Florence Bay,-19°7.44,146°53.11,3.5,30,January,Saturday
+TIGER SHARK,2016-02-04,Mackay,Harbour Beach,-21°7.1,149°13.68,2.4,27,February,Thursday
+TIGER SHARK,2016-02-04,Mackay,Harbour Beach,-21°7.28,149°13.56,2.5,27,February,Thursday
+TIGER SHARK,2016-02-05,Townsville,Florence Bay,-19°7.3,146°53.12,3.8,31,February,Friday
+TIGER SHARK,2016-02-06,Gold Coast,Broadbeach,-28°1.09,153°26.23,2.31,25,February,Saturday
+TIGER SHARK,2016-02-06,Townsville,Florence Bay,-19°7.5,146°53.11,3.7,31,February,Saturday
+TIGER SHARK,2016-02-08,Townsville,Horseshoe Bay,-19°6.22,146°51.57,1.8,31,February,Monday
+TIGER SHARK,2016-02-09,Capricorn Coast,Emu Park,-23°15.69,150°49.91,2.1,27,February,Tuesday
+TIGER SHARK,2016-02-11,Bundaberg,Neilson Park,-24°48.49,152°27.94,3.12,27,February,Thursday
+TIGER SHARK,2016-02-12,Gold Coast,Rainbow Bay,-28°9.3,153°32.31,3.15,26,February,Friday
+TIGER SHARK,2016-02-14,Rainbow Beach,Rainbow Beach,-25°53.76,153°5.96,2.35,25,February,Sunday
+TIGER SHARK,2016-02-15,Townsville,Nelly Bay,-19°10.52,146°50.97,2.25,31,February,Monday
+TIGER SHARK,2016-02-17,Mackay,Lamberts Beach,-21°4.32,149°13.89,2.4,27,February,Wednesday
+TIGER SHARK,2016-02-18,Capricorn Coast,Emu Park,-23°15.16,150°50.08,3.8,27,February,Thursday
+TIGER SHARK,2016-02-21,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,1.85,25,February,Sunday
+TIGER SHARK,2016-02-25,Rainbow Beach,Rainbow Beach,-25°53.71,153°5.94,3.3,25,February,Thursday
+TIGER SHARK,2016-02-27,Mackay,Harbour Beach,-21°7.25,149°13.65,2.1,27,February,Saturday
+TIGER SHARK,2016-02-27,Townsville,Florence Bay,-19°7.35,146°53.11,1.7,30,February,Saturday
+TIGER SHARK,2016-02-28,Bundaberg,Neilson Park,-24°48.09,152°27.59,3.5,26,February,Sunday
+TIGER SHARK,2016-02-29,Townsville,Pallarenda Beach,-19°11.98,146°46.66,1.4,30,February,Monday
+TIGER SHARK,2016-03-02,Townsville,Pallarenda Beach,-19°11.92,146°46.65,1.35,30,March,Wednesday
+TIGER SHARK,2016-03-07,Townsville,Horseshoe Bay,-19°6.26,146°51.56,2.1,30,March,Monday
+TIGER SHARK,2016-03-15,Gold Coast,Broadbeach,-28°1.09,153°26.23,3.65,27,March,Tuesday
+TIGER SHARK,2016-03-16,Sunshine Coast North,Peregian Beach,-26°28.95,153°6.2,0.9,24,March,Wednesday
+TIGER SHARK,2016-03-18,Cairns,Clifton Beach,-16°45.58,145°40.93,1.8,29,March,Friday
+TIGER SHARK,2016-03-19,Bundaberg,Neilson Park,-24°48.23,152°27.75,2.5,26,March,Saturday
+TIGER SHARK,2016-03-19,Mackay,Lamberts Beach,-21°4.32,149°13.89,2.3,27,March,Saturday
+TIGER SHARK,2016-03-21,Cairns,Holloways Beach,-16°49.82,145°44.85,3.1,29,March,Monday
+TIGER SHARK,2016-03-21,Mackay,Harbour Beach,-21°7.05,149°13.69,2.2,27,March,Monday
+TIGER SHARK,2016-03-21,Mackay,Harbour Beach,-21°7.16,149°13.66,3.4,27,March,Monday
+TIGER SHARK,2016-03-21,Mackay,Lamberts Beach,-21°4.27,149°13.87,2.1,27,March,Monday
+TIGER SHARK,2016-03-21,Rainbow Beach,Rainbow Beach,-25°53.53,153°5.79,1.4,27,March,Monday
+TIGER SHARK,2016-03-22,Bundaberg,Kellys Beach,-24°49.11,152°28.3,3.57,25,March,Tuesday
+TIGER SHARK,2016-03-22,Bundaberg,Neilson Park,-24°48.32,152°27.82,3.08,25,March,Tuesday
+TIGER SHARK,2016-03-22,Rainbow Beach,Rainbow Beach,-25°53.56,153°5.69,1.4,27,March,Tuesday
+TIGER SHARK,2016-03-25,Bundaberg,Kellys Beach,-24°49.47,152°28.31,2,25,March,Friday
+TIGER SHARK,2016-03-25,Rainbow Beach,Rainbow Beach,-25°53.56,153°5.69,3.95,27,March,Friday
+TIGER SHARK,2016-03-26,Mackay,Harbour Beach,-21°7.14,149°13.66,2.8,27,March,Saturday
+TIGER SHARK,2016-03-26,Townsville,Horseshoe Bay,-19°6.18,146°51.58,1.4,29,March,Saturday
+TIGER SHARK,2016-03-27,Cairns,Ellis Beach,-16°43.26,145°38.96,2.2,29,March,Sunday
+TIGER SHARK,2016-03-28,Townsville,Horseshoe Bay,-19°6.22,146°51.57,1.85,29,March,Monday
+TIGER SHARK,2016-03-28,Townsville,Nelly Bay,-19°10.05,146°51.21,3.7,29,March,Monday
+TIGER SHARK,2016-03-31,Mackay,Harbour Beach,-21°7.39,149°13.61,2,27,March,Thursday
+TIGER SHARK,2016-04-01,Mackay,Harbour Beach,-21°7.14,149°13.66,2.6,26,April,Friday
+TIGER SHARK,2016-04-01,Mackay,Harbour Beach,-21°7.05,149°13.69,3.4,26,April,Friday
+TIGER SHARK,2016-04-02,Cairns,Holloways Beach,-16°49.82,145°44.85,0.7,29,April,Saturday
+TIGER SHARK,2016-04-05,Cairns,Holloways Beach,-16°49.89,145°44.91,1.7,27,April,Tuesday
+TIGER SHARK,2016-04-06,Townsville,Nelly Bay,-19°10.61,146°50.92,2,28,April,Wednesday
+TIGER SHARK,2016-04-07,Gladstone,Tannum Sands,-23°56.82,151°22.78,3.35,27,April,Thursday
+TIGER SHARK,2016-04-09,Cairns,Ellis Beach,-16°43.36,145°39.08,2.9,27,April,Saturday
+TIGER SHARK,2016-04-12,Gladstone,Tannum Sands,-23°57.03,151°23.04,2.6,26,April,Tuesday
+TIGER SHARK,2016-04-12,Gladstone,Tannum Sands,-23°56.62,151°22.58,3.7,26,April,Tuesday
+TIGER SHARK,2016-04-13,Townsville,Horseshoe Bay,-19°6.13,146°51.59,1.5,29,April,Wednesday
+TIGER SHARK,2016-04-13,Townsville,Horseshoe Bay,-19°6.13,146°51.59,3.5,29,April,Wednesday
+TIGER SHARK,2016-04-18,Townsville,Pallarenda Beach,-19°11.98,146°46.66,3.6,27,April,Monday
+TIGER SHARK,2016-04-22,Mackay,Lamberts Beach,-21°4.32,149°13.89,2.1,26,April,Friday
+TIGER SHARK,2016-04-23,Bundaberg,Neilson Park,-24°48.32,152°27.82,1.6,23,April,Saturday
+TIGER SHARK,2016-04-23,Rainbow Beach,Rainbow Beach,-25°53.52,153°5.82,2.3,25,April,Saturday
+TIGER SHARK,2016-04-25,Bundaberg,Neilson Park,-24°48.32,152°27.82,2.7,23,April,Monday
+TIGER SHARK,2016-04-30,Mackay,Lamberts Beach,-21°4.41,149°13.9,1.7,26,April,Saturday
+TIGER SHARK,2016-05-02,Mackay,Lamberts Beach,-21°4.37,149°13.89,2,25,May,Monday
+TIGER SHARK,2016-05-02,Sunshine Coast South & Bribie Island,Buddina Beach,-26°42.21,153°8.38,1,24,May,Monday
+TIGER SHARK,2016-05-05,Mackay,Blacks Beach,-21°2.76,149°11.55,1.8,25,May,Thursday
+TIGER SHARK,2016-05-05,Mackay,Lamberts Beach,-21°4.32,149°13.89,2,25,May,Thursday
+TIGER SHARK,2016-05-07,Mackay,Lamberts Beach,-21°4.37,149°13.89,2,25,May,Saturday
+TIGER SHARK,2016-05-10,Bundaberg,Kellys Beach,-24°48.19,152°28.32,3.16,24,May,Tuesday
+TIGER SHARK,2016-05-10,Bundaberg,Neilson Park,-24°48.4,152°27.91,2.7,24,May,Tuesday
+TIGER SHARK,2016-05-10,Mackay,Bucasia Beach,-21°1.46,149°9.97,3.8,25,May,Tuesday
+TIGER SHARK,2016-05-10,Mackay,Harbour Beach,-21°7.32,149°13.63,2.4,25,May,Tuesday
+TIGER SHARK,2016-05-11,Cairns,Buchans Point Beach,-16°43.56,145°39.78,1.4,27,May,Wednesday
+TIGER SHARK,2016-05-13,Bundaberg,Kellys Beach,-24°49.11,152°28.3,3.37,23,May,Friday
+TIGER SHARK,2016-05-14,Rainbow Beach,Rainbow Beach,-25°53.77,153°5.78,1.7,24,May,Saturday
+TIGER SHARK,2016-05-15,Bundaberg,Kellys Beach,-24°49.33,152°28.33,2.03,23,May,Sunday
+TIGER SHARK,2016-05-15,Capricorn Coast,Farnborough Beach,-23°6.82,150°45.26,3.12,25,May,Sunday
+TIGER SHARK,2016-05-19,Townsville,Radical Bay,-19°6.45,146°52.51,2.45,26,May,Thursday
+TIGER SHARK,2016-05-20,Cairns,Ellis Beach,-16°43.21,145°38.85,2.1,25,May,Friday
+TIGER SHARK,2016-05-21,Cairns,Buchans Point Beach,-16°43.56,145°39.78,2.1,25,May,Saturday
+TIGER SHARK,2016-05-21,Townsville,Pallarenda Beach,-19°11.85,146°46.64,3.65,26,May,Saturday
+TIGER SHARK,2016-05-22,Bundaberg,Neilson Park,-24°48.32,152°27.82,1.13,23,May,Sunday
+TIGER SHARK,2016-05-25,Bundaberg,Kellys Beach,-24°49.47,152°28.31,2.15,22,May,Wednesday
+TIGER SHARK,2016-05-28,Sunshine Coast North,Noosa,-26°22.23,153°6.49,2.01,23,May,Saturday
+TIGER SHARK,2016-05-28,Sunshine Coast North,Sunshine Beach,-26°24.31,153°7.06,1.02,23,May,Saturday
+TIGER SHARK,2016-05-28,Townsville,Alma Bay,-19°8.85,146°52.42,1.3,26,May,Saturday
+TIGER SHARK,2016-05-29,Bundaberg,Kellys Beach,-24°49.55,152°28.29,4.09,22,May,Sunday
+TIGER SHARK,2016-05-30,Mackay,Harbour Beach,-21°7.14,149°13.66,3,25,May,Monday
+TIGER SHARK,2016-05-30,Mackay,Harbour Beach,-21°7.2,149°13.65,2.4,25,May,Monday
+TIGER SHARK,2016-05-30,Mackay,Lamberts Beach,-21°4.32,149°13.89,2.5,25,May,Monday
+TIGER SHARK,2016-05-30,Townsville,Horseshoe Bay,-19°6.26,146°51.56,1.3,26,May,Monday
+TIGER SHARK,2016-06-01,Gladstone,Tannum Sands,-23°56.55,151°22.54,1.6,24,June,Wednesday
+TIGER SHARK,2016-06-03,Gold Coast,Rainbow Bay,-28°9.31,153°32.51,1.78,23,June,Friday
+TIGER SHARK,2016-06-04,Townsville,Florence Bay,-19°7.3,146°53.12,0.89,25,June,Saturday
+TIGER SHARK,2016-06-05,Mackay,Bucasia Beach,-21°1.15,149°9.63,2,25,June,Sunday
+TIGER SHARK,2016-06-08,Townsville,Alma Bay,-19°9.11,146°52.46,1.05,25,June,Wednesday
+TIGER SHARK,2016-06-08,Townsville,Horseshoe Bay,-19°6.13,146°51.59,2,25,June,Wednesday
+TIGER SHARK,2016-06-12,Bundaberg,Kellys Beach,-24°49.4,152°28.32,1.95,21,June,Sunday
+TIGER SHARK,2016-06-16,Townsville,Alma Bay,-19°9.02,146°52.43,3.8,24,June,Thursday
+TIGER SHARK,2016-06-16,Townsville,Radical Bay,-19°6.45,146°52.51,3.1,24,June,Thursday
+TIGER SHARK,2016-06-18,Cairns,Ellis Beach,-16°43.21,145°38.85,4.1,25,June,Saturday
+TIGER SHARK,2016-07-02,Rainbow Beach,Rainbow Beach,-25°53.52,153°5.82,2.9,21,July,Saturday
+TIGER SHARK,2016-07-03,Mackay,Lamberts Beach,-21°4.27,149°13.87,1.9,24,July,Sunday
+TIGER SHARK,2016-07-04,Capricorn Coast,Emu Park,-23°15.61,150°49.94,2.08,21,July,Monday
+TIGER SHARK,2016-07-05,Mackay,Eimeo Beach,-21°1.86,149°10.98,2.4,24,July,Tuesday
+TIGER SHARK,2016-07-08,Bundaberg,Kellys Beach,-24°48.19,152°28.32,1.48,18,July,Friday
+TIGER SHARK,2016-07-14,Rainbow Beach,Rainbow Beach,-25°53.52,153°5.82,2.35,20,July,Thursday
+TIGER SHARK,2016-07-16,Townsville,Radical Bay,-19°6.45,146°52.51,4,22,July,Saturday
+TIGER SHARK,2016-07-18,Townsville,Nelly Bay,-19°10.36,146°51.05,1.95,22,July,Monday
+TIGER SHARK,2016-07-20,Cairns,Ellis Beach,-16°43.26,145°38.96,2.7,23,July,Wednesday
+TIGER SHARK,2016-07-22,Mackay,Eimeo Beach,-21°1.8,149°10.76,2.01,24,July,Friday
+TIGER SHARK,2016-07-23,Bundaberg,Kellys Beach,-24°49.25,152°28.33,1.41,17,July,Saturday
+TIGER SHARK,2016-07-24,Mackay,Harbour Beach,-21°7.16,149°13.66,3.6,24,July,Sunday
+TIGER SHARK,2016-07-27,Townsville,Radical Bay,-19°6.51,146°52.63,3.2,24,July,Wednesday
+TIGER SHARK,2016-07-28,Bundaberg,Kellys Beach,-24°49.62,152°28.26,2.32,17,July,Thursday
+TIGER SHARK,2016-07-30,Mackay,Harbour Beach,-21°7.2,149°13.65,2.4,24,July,Saturday
+TIGER SHARK,2016-07-30,Rainbow Beach,Rainbow Beach,-25°53.54,153°5.77,2.6,21,July,Saturday
+TIGER SHARK,2016-08-01,Bundaberg,Kellys Beach,-24°49.25,152°28.33,1.95,17,August,Monday
+TIGER SHARK,2016-08-02,Mackay,Bucasia Beach,-21°1.38,149°9.73,2.3,24,August,Tuesday
+TIGER SHARK,2016-08-03,Rainbow Beach,Rainbow Beach,-25°53.53,153°5.79,3.85,20,August,Wednesday
+TIGER SHARK,2016-08-07,Cairns,Ellis Beach,-16°43.21,145°38.85,1.4,23,August,Sunday
+TIGER SHARK,2016-08-07,Cairns,Trinity Beach,-16°46.5,145°41.97,2.4,23,August,Sunday
+TIGER SHARK,2016-08-09,Cairns,Ellis Beach,-16°43.21,145°38.85,1.24,22,August,Tuesday
+TIGER SHARK,2016-08-09,Mackay,Blacks Beach,-21°2.69,149°11.52,2.2,24,August,Tuesday
+TIGER SHARK,2016-08-10,Bundaberg,Kellys Beach,-24°49.4,152°28.32,1.28,17,August,Wednesday
+TIGER SHARK,2016-08-10,Mackay,Harbour Beach,-21°7.08,149°13.62,3.2,24,August,Wednesday
+TIGER SHARK,2016-08-10,Townsville,Radical Bay,-19°6.51,146°52.63,2.5,23,August,Wednesday
+TIGER SHARK,2016-08-14,Bundaberg,Kellys Beach,-24°49.62,152°28.26,2.37,17,August,Sunday
+TIGER SHARK,2016-08-22,Townsville,Alma Bay,-19°9.11,146°52.46,2.35,23,August,Monday
+TIGER SHARK,2016-08-22,Townsville,Horseshoe Bay,-19°6.84,146°50.9,2,23,August,Monday
+TIGER SHARK,2016-08-26,Cairns,Ellis Beach,-16°43.23,145°38.91,2.6,22,August,Friday
+TIGER SHARK,2016-08-29,Townsville,Florence Bay,-19°7.35,146°53.11,1.13,23,August,Monday
+TIGER SHARK,2016-09-02,Gold Coast,Rainbow Bay,-28°9.31,153°32.45,3.5,20,September,Friday
+TIGER SHARK,2016-09-04,Bundaberg,Kellys Beach,-24°49.4,152°28.32,1.56,19,September,Sunday
+TIGER SHARK,2016-09-06,Bundaberg,Kellys Beach,-24°48.19,152°28.32,2.26,19,September,Tuesday
+TIGER SHARK,2016-09-09,Townsville,Horseshoe Bay,-19°6.26,146°51.56,2.3,24,September,Friday
+TIGER SHARK,2016-09-11,Mackay,Harbour Beach,-21°7.08,149°13.62,3.4,24,September,Sunday
+TIGER SHARK,2016-09-11,Mackay,Harbour Beach,-21°7.08,149°13.62,2.8,24,September,Sunday
+TIGER SHARK,2016-09-14,Bundaberg,Neilson Park,-24°48.4,152°27.91,3.2,20,September,Wednesday
+TIGER SHARK,2016-09-14,Nth Stradbroke Is.,Cylinder Beach,-27°25.23,153°32.21,3.5,21,September,Wednesday
+TIGER SHARK,2016-09-16,Mackay,Harbour Beach,-21°7.01,149°13.69,2.8,23,September,Friday
+TIGER SHARK,2016-09-16,Mackay,Harbour Beach,-21°7.08,149°13.62,3.2,23,September,Friday
+TIGER SHARK,2016-09-16,Mackay,Harbour Beach,-21°7.08,149°13.62,2.7,23,September,Friday
+TIGER SHARK,2016-09-17,Townsville,Florence Bay,-19°7.35,146°53.11,1.4,26,September,Saturday
+TIGER SHARK,2016-09-18,Nth Stradbroke Is.,Ocean Beach,-27°27.29,153°32.36,3.9,21,September,Sunday
+TIGER SHARK,2016-09-19,Rainbow Beach,Rainbow Beach,-25°53.71,153°5.94,3.65,22,September,Monday
+TIGER SHARK,2016-09-19,Townsville,Horseshoe Bay,-19°6.22,146°51.57,3.55,27,September,Monday
+TIGER SHARK,2016-09-20,Bundaberg,Kellys Beach,-24°49.55,152°28.29,1.42,21,September,Tuesday
+TIGER SHARK,2016-09-22,Mackay,Harbour Beach,-21°7.14,149°13.66,2.2,23,September,Thursday
+TIGER SHARK,2016-09-24,Sunshine Coast North,Noosa,-26°22.2,153°6.55,2.85,20,September,Saturday
+TIGER SHARK,2016-09-27,Sunshine Coast North,Noosa,-26°22.23,153°6.49,3.21,23,September,Tuesday
+TIGER SHARK,2016-09-29,Sunshine Coast North,Sunshine Beach,-26°24.43,153°7.03,2.51,23,September,Thursday
+TIGER SHARK,2016-09-30,Bundaberg,Kellys Beach,-24°49.62,152°28.26,2.76,21,September,Friday
+TIGER SHARK,2016-10-01,Capricorn Coast,Emu Park,-23°15.16,150°50.08,3.65,23,October,Saturday
+TIGER SHARK,2016-10-01,Gold Coast,Broadbeach,-28°1.16,153°26.22,3.04,18,October,Saturday
+TIGER SHARK,2016-10-01,Capricorn Coast,Emu Park,-23°15.16,150°50.08,3.65,23,October,Saturday
+TIGER SHARK,2016-10-01,Gold Coast,Broadbeach,-28°1.16,153°26.22,3.04,18,October,Saturday
+TIGER SHARK,2016-10-05,Nth Stradbroke Is.,Cylinder Beach,-27°25.02,153°30.88,2.8,20,October,Wednesday
+TIGER SHARK,2016-10-07,Rainbow Beach,Rainbow Beach,-25°53.52,153°5.82,2.75,22,October,Friday
+TIGER SHARK,2016-10-07,Sunshine Coast North,Noosa,-26°22.19,153°6.59,2.54,21,October,Friday
+TIGER SHARK,2016-10-07,Sunshine Coast North,Noosa,-26°22.2,153°6.55,3.34,21,October,Friday
+TIGER SHARK,2016-10-08,Townsville,Radical Bay,-19°6.54,146°52.68,3.5,26,October,Saturday
+TIGER SHARK,2016-10-17,Capricorn Coast,Kemp Beach,-23°10.13,150°47.69,3.46,23,October,Monday
+TIGER SHARK,2016-10-18,Nth Stradbroke Is.,Ocean Beach,-27°27.29,153°32.36,3.1,21,October,Tuesday
+TIGER SHARK,2016-10-19,Mackay,Harbour Beach,-21°7.08,149°13.62,2,24,October,Wednesday
+TIGER SHARK,2016-10-19,Mackay,Harbour Beach,-21°7.2,149°13.65,2.2,24,October,Wednesday
+TIGER SHARK,2016-10-19,Rainbow Beach,Rainbow Beach,-25°53.66,153°5.91,3.15,22,October,Wednesday
+TIGER SHARK,2016-10-21,Mackay,Harbour Beach,-21°7.1,149°13.68,2.1,25,October,Friday
+TIGER SHARK,2016-10-22,Sunshine Coast North,Hyatt Regency Resort,-26°33.52,153°6.27,3.76,23,October,Saturday
+TIGER SHARK,2016-10-26,Cairns,Ellis Beach,-16°43.3,145°39.01,3.1,26,October,Wednesday
+TIGER SHARK,2016-10-28,Mackay,Lamberts Beach,-21°4.32,149°13.89,2.3,25,October,Friday
+TIGER SHARK,2016-10-28,Sunshine Coast North,Sunrise Beach,-26°25.04,153°6.98,2.45,23,October,Friday
+TIGER SHARK,2016-10-31,Nth Stradbroke Is.,Cylinder Beach,-27°25.02,153°30.88,3,22,October,Monday
+TIGER SHARK,2016-11-05,Townsville,Radical Bay,-19°6.51,146°52.63,1.4,28,November,Saturday
+TIGER SHARK,2016-11-05,Townsville,Radical Bay,-19°6.49,146°52.59,2.15,28,November,Saturday
+TIGER SHARK,2016-11-09,Mackay,Harbour Beach,-21°7.08,149°13.62,2.2,25,November,Wednesday
+TIGER SHARK,2016-11-09,Mackay,Harbour Beach,-21°7.08,149°13.62,2.3,25,November,Wednesday
+TIGER SHARK,2016-11-09,Mackay,Harbour Beach,-21°7.08,149°13.62,1.6,25,November,Wednesday
+TIGER SHARK,2016-11-12,Bundaberg,Kellys Beach,-24°49.25,152°28.33,2.1,24,November,Saturday
+TIGER SHARK,2016-11-15,Bundaberg,Bargara,-24°48.65,152°27.99,2.73,24,November,Tuesday
+TIGER SHARK,2016-11-19,Townsville,Horseshoe Bay,-19°6.67,146°50.54,2.55,28,November,Saturday
+TIGER SHARK,2016-11-24,Mackay,Harbour Beach,-21°7.28,149°13.56,2,25,November,Thursday
+TIGER SHARK,2016-11-24,Townsville,Florence Bay,-19°7.39,146°53.11,3,28,November,Thursday
+TIGER SHARK,2016-12-03,Townsville,Alma Bay,-19°8.97,146°52.41,1.7,28,December,Saturday
+TIGER SHARK,2016-12-04,Bundaberg,Neilson Park,-24°48.16,152°27.67,3.28,25,December,Sunday
+TIGER SHARK,2016-12-09,Cairns,Holloways Beach,-16°49.89,145°44.91,2.3,29,December,Friday
+TIGER SHARK,2016-12-17,Bundaberg,Kellys Beach,-24°49.11,152°28.3,1.82,25,December,Saturday
+TIGER SHARK,2016-12-17,Rainbow Beach,Rainbow Beach,-25°54.02,153°5.99,2.47,25,December,Saturday
+TIGER SHARK,2016-12-17,Townsville,Horseshoe Bay,-19°6.26,146°51.56,3.1,29,December,Saturday
+TIGER SHARK,2016-12-25,Cairns,Ellis Beach,-16°43.21,145°38.85,0.88,28,December,Sunday
+TIGER SHARK,2016-12-25,Mackay,Harbour Beach,-21°7.28,149°13.56,2,27,December,Sunday
+TIGER SHARK,2016-12-27,Gold Coast,Kirra Beach,-28°9.3,153°32.02,2.5,24,December,Tuesday
+TIGER SHARK,2016-12-30,Townsville,Horseshoe Bay,-19°6.22,146°51.57,1.95,30,December,Friday
+TIGER SHARK,2016-12-30,Townsville,Horseshoe Bay,-19°6.8,146°50.79,3,30,December,Friday
+TIGER SHARK,2016-12-31,Townsville,Nelly Bay,-19°10.05,146°51.21,3.5,31,December,Saturday
+UNKNOWN SHARK,2016-01-09,Bundaberg,Kellys Beach,-24°49.71,152°28.24,2,25,January,Saturday
+UNKNOWN SHARK,2016-02-01,Bundaberg,Neilson Park,-24°48.16,152°27.67,2,26,February,Monday
+WHITE SHARK,2016-07-06,Gold Coast,North Burleigh Beach,-28°4.17,153°27.12,2.5,19,July,Wednesday
+WHITE SHARK,2016-07-12,Gold Coast,Rainbow Bay,-28°9.32,153°33.03,3.14,20,July,Tuesday
+WHITE SHARK,2016-08-18,Gold Coast,Main Beach,-27°58.24,153°26.07,1.6,21,August,Thursday
+WHITE SHARK,2016-09-04,Gold Coast,Miami Beach,-28°4,153°27.04,2.1,19,September,Sunday
+WHITE SHARK,2016-08-27,Nth Stradbroke Is.,Cylinder Beach,-27°25.21,153°31.63,2.3,21,August,Saturday
+WHITE SHARK,2016-09-02,Rainbow Beach,Rainbow Beach,-25°53.62,153°5.89,1.61,21,September,Friday
+ZEBRA SHARK,2016-02-03,Gold Coast,Kirra Beach,-28°9.3,153°32.02,2,22,February,Wednesday
