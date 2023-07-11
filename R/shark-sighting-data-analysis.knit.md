@@ -1,12 +1,4 @@
----
-title: "Shark Sighting Data Analysis"
-date: "2022-09-28"
-output: html_document
----
-
-
-
-
+## Shark Sighting Data Analysis
 
 ```r
 library(ggpubr)
