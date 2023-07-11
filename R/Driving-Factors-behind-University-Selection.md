@@ -70,7 +70,7 @@ enrollments are separately displayed.
             notch = FALSE
     )
 
-![](Driving-Factors-behind-University-Selection_files/figure-markdown_strict/unnamed-chunk-3-1.png)
+![](https://github.com/yhuuc/data_analysis/blob/main/R/7.png)
 As the five-number summary shows, the minimum and maximum enrollments
 are 2695 for Lincoln University in New Zealand and 64479 for Monash
 University in Australia. On average, there are 33938 international
@@ -110,7 +110,7 @@ correlation amongst these factors themselves are also explored.
             main="Enrollment vs. Country",
             ylab="Enrollment",)
 
-![](Driving-Factors-behind-University-Selection_files/figure-markdown_strict/unnamed-chunk-6-1.png)
+![](https://github.com/yhuuc/data_analysis/blob/main/R/8.png)
 The tertiary student enrollments in Australia and New Zealand are
 calculated and compared using a bar graph. Noticeably, the enrollment
 number in Australia is several times higher than that in New Zealand.
@@ -127,13 +127,13 @@ international students’ choice on university.
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](Driving-Factors-behind-University-Selection_files/figure-markdown_strict/unnamed-chunk-7-1.png)
+![](https://github.com/yhuuc/data_analysis/blob/main/R/9.png)
 
     ggscatter(HE,x="International.Student.Ranking",y="Uni.enrolment",add = "reg.line",cor.coef = TRUE)
 
     ## `geom_smooth()` using formula 'y ~ x'
 
-![](Driving-Factors-behind-University-Selection_files/figure-markdown_strict/unnamed-chunk-8-1.png)
+![](https://github.com/yhuuc/data_analysis/blob/main/R/10.png)
 The QR World Ranking and International Student Ranking are tested in
 their correlation with enrollment rate. As demonstrated in the graphs,
 the QR ranking as a negative 0.43 correlation, which means the lower the
@@ -176,7 +176,7 @@ university number in each country 33 uni, 8 new, 25 aus
             notch = FALSE
     )
 
-![](Driving-Factors-behind-University-Selection_files/figure-markdown_strict/unnamed-chunk-10-1.png)
+![](https://github.com/yhuuc/data_analysis/blob/main/R/11.png)
 A side by side boxplot is chosen to present the difference in university
 rankings between two countries. The result matches previous prediction
 that Australia universities have higher QR ranking, as the minimum and
