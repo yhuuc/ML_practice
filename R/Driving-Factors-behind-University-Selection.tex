@@ -1,0 +1,415 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same} % disable monospaced font for URLs
+\hypersetup{
+  pdftitle={Driving Factors behind University Selection},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{Driving Factors behind University Selection}
+\author{}
+\date{\vspace{-2.5em}2022-08-27}
+
+\begin{document}
+\maketitle
+
+\hypertarget{driving-factors-behind-university-selection}{%
+\subsection{Driving Factors behind University
+Selection}\label{driving-factors-behind-university-selection}}
+
+Dataset source:
+\url{https://www.studyinaustralia.gov.au/English/Australian-Education/Universities-Higher-Education/University-rankings}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(readxl)}
+\NormalTok{HE }\OtherTok{\textless{}{-}} \FunctionTok{read.csv}\NormalTok{(}\StringTok{"HE Rankings updated.csv"}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\hypertarget{introduction}{%
+\subsubsection{Introduction}\label{introduction}}
+
+Tertiary international students are one of the major contributors to
+Australia and New Zealand national economy. Especially that Australia is
+a country which celebrates cultural diversity with 30\% immigration
+population (Australian Bureau of Statistics 2022). It is reported that
+the source of more than half of the revenue of the University and Sydney
+and the University of NSW is gained from international students (McGowan
+2018). Aside from financial gain, further benefits for Australia and New
+Zealand include accelerated regional development, created job
+opportunities and skilled immigrants with tertiary education.
+Unfortunately, due to Covid-19 pandemic and its related restrictions,
+this financial source has decreased substantially in the past three
+years (The University of Sydney 2020). Presence is a time for national
+post-pandemic rehabilitation. There is an urgent need to attract back
+international students. Systematic research has been conducted on the
+reasons behind university choice of international students (Mazzarol \&
+Soutar 2002). However, studies focusing on pacific countries are
+lacking. This report collects and analyzes data regarding international
+students enrollment into Australia and New Zealand universities. The
+first part overlooks the situation of international student enrollment
+in general using Five Number Summary on university student enrollment
+rates in both countries as a whole. The second part proceeds to
+investigate the correlation and possible causation between enrollment
+rate and several potential driving factors, such as university ranking.
+
+\hypertarget{international-student-university-enrollment-overview}{%
+\subsubsection{International Student University Enrollment
+Overview}\label{international-student-university-enrollment-overview}}
+
+The total international student enrollment number in Australia and New
+Zealand is described using five-number summary and visualized with
+boxplot. The information of universities with lowest and highest
+enrollments are separately displayed.
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{enrollment}\OtherTok{=}\NormalTok{HE}\SpecialCharTok{$}\NormalTok{Uni.enrolment}
+\FunctionTok{summary}\NormalTok{(enrollment)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    2695   22807   32948   33938   45580   64479
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{HE[HE}\SpecialCharTok{$}\NormalTok{Uni.enrolment}\SpecialCharTok{==}\FunctionTok{min}\NormalTok{(enrollment),]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   World.Ranking    University.Name     Country International.Student.Ranking
+## 9           356 Lincoln University New Zealand                            43
+##   Population.of.host.city Uni.enrolment
+## 9                  624200          2695
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{HE[HE}\SpecialCharTok{$}\NormalTok{Uni.enrolment}\SpecialCharTok{==}\FunctionTok{max}\NormalTok{(enrollment),]}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+##   World.Ranking   University.Name   Country International.Student.Ranking
+## 4            58 Monash University Australia                            27
+##   Population.of.host.city Uni.enrolment
+## 4           5.078 million         64479
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{boxplot}\NormalTok{(enrollment,}
+        \AttributeTok{main=}\StringTok{"Total International Students\textquotesingle{} Enrollment into }
+\StringTok{        Australia and New Zealand Universities"}\NormalTok{,}
+        \AttributeTok{at =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{),}
+        \AttributeTok{names =} \FunctionTok{c}\NormalTok{(}\StringTok{"Enrollment"}\NormalTok{),}
+        \AttributeTok{las =} \DecValTok{1}\NormalTok{,}
+        \AttributeTok{border =} \StringTok{"brown"}\NormalTok{,}
+        \AttributeTok{horizontal =} \ConstantTok{FALSE}\NormalTok{,}
+        \AttributeTok{notch =} \ConstantTok{FALSE}
+\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Driving-Factors-behind-University-Selection_files/figure-latex/unnamed-chunk-3-1.pdf}
+As the five-number summary shows, the minimum and maximum enrollments
+are 2695 for Lincoln University in New Zealand and 64479 for Monash
+University in Australia. On average, there are 33938 international
+students enrolled in listed universities. Half of the universities have
+enrollment counts between 22807 and 45580. The most common number that
+appeared is 32948. The university with the least enrollment is based in
+New Zealand while the one with highest enrollment is in Australia,
+suggesting that tertiary education quality discrepancy between the two
+countries as perceived by international students exists. This is also
+supported by the difference in the two nations' income from
+international students.In Australia, the export income produced by
+international students increased every year and rose up to 37.6 billion
+AUD in 2019 (Statista 2022). In New Zealand in 2018, the annual profit
+from international education is 5.1 billion NZD (Hipkins 2018).
+Additionally, according to the boxplot, there is no outliers, which
+means the admission number stays fairly stable among different
+universities in Australia and New Zealand. However, this could also
+indicate a selection bias such that only tertiary education institutions
+up to a certain standard are included in the original dataset.
+
+\hypertarget{evaluating-driving-factors}{%
+\subsubsection{Evaluating Driving
+Factors}\label{evaluating-driving-factors}}
+
+The primary purpose of this section is to find connections between
+admission numbers and likely influential factors, including nation,
+university QR ranking and International Student Ranking. Possible
+correlation amongst these factors themselves are also explored.
+
+\hypertarget{nation}{%
+\paragraph{Nation}\label{nation}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{country}\OtherTok{=}\NormalTok{HE}\SpecialCharTok{$}\NormalTok{Country}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{c\_enroll }\OtherTok{\textless{}{-}} \FunctionTok{c}\NormalTok{(}\FunctionTok{sum}\NormalTok{(HE[}\FunctionTok{which}\NormalTok{(HE}\SpecialCharTok{$}\NormalTok{Country}\SpecialCharTok{==}\StringTok{"Australia"}\NormalTok{),}\StringTok{"Uni.enrolment"}\NormalTok{]),}\FunctionTok{sum}\NormalTok{(HE[}\FunctionTok{which}\NormalTok{(HE}\SpecialCharTok{$}\NormalTok{Country}\SpecialCharTok{==}\StringTok{"New Zealand"}\NormalTok{),}\StringTok{"Uni.enrolment"}\NormalTok{]))}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{options}\NormalTok{(}\AttributeTok{scipen=}\DecValTok{999}\NormalTok{)}
+\FunctionTok{barplot}\NormalTok{(c\_enroll,}
+        \AttributeTok{names.arg =} \FunctionTok{c}\NormalTok{(}\StringTok{"Australia"}\NormalTok{,}\StringTok{"New Zealand"}\NormalTok{),}
+        \AttributeTok{main=}\StringTok{"Enrollment vs. Country"}\NormalTok{,}
+        \AttributeTok{ylab=}\StringTok{"Enrollment"}\NormalTok{,)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Driving-Factors-behind-University-Selection_files/figure-latex/unnamed-chunk-6-1.pdf}
+The tertiary student enrollments in Australia and New Zealand are
+calculated and compared using a bar graph. Noticeably, the enrollment
+number in Australia is several times higher than that in New Zealand.
+Country can be therefore considered as a strong driving factor behind
+international students' choice on university.
+
+\hypertarget{ranking-qr-world-ranking-vs.-international-student-ranking}{%
+\paragraph{Ranking: QR World Ranking vs.~International Student
+Ranking}\label{ranking-qr-world-ranking-vs.-international-student-ranking}}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(ggpubr)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## Loading required package: ggplot2
+\end{verbatim}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggscatter}\NormalTok{(HE,}\AttributeTok{x=}\StringTok{"World.Ranking"}\NormalTok{,}\AttributeTok{y=}\StringTok{"Uni.enrolment"}\NormalTok{,}\AttributeTok{add =} \StringTok{"reg.line"}\NormalTok{,}\AttributeTok{cor.coef =} \ConstantTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## `geom_smooth()` using formula 'y ~ x'
+\end{verbatim}
+
+\includegraphics{Driving-Factors-behind-University-Selection_files/figure-latex/unnamed-chunk-7-1.pdf}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{ggscatter}\NormalTok{(HE,}\AttributeTok{x=}\StringTok{"International.Student.Ranking"}\NormalTok{,}\AttributeTok{y=}\StringTok{"Uni.enrolment"}\NormalTok{,}\AttributeTok{add =} \StringTok{"reg.line"}\NormalTok{,}\AttributeTok{cor.coef =} \ConstantTok{TRUE}\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{verbatim}
+## `geom_smooth()` using formula 'y ~ x'
+\end{verbatim}
+
+\includegraphics{Driving-Factors-behind-University-Selection_files/figure-latex/unnamed-chunk-8-1.pdf}
+The QR World Ranking and International Student Ranking are tested in
+their correlation with enrollment rate. As demonstrated in the graphs,
+the QR ranking as a negative 0.43 correlation, which means the lower the
+ranking (larger the number), the fewer the enrollments. However, the
+International Student Ranking and enrollment do not show any
+correlation, indicated by a coefficient of -0.00024. In one sentence,
+the QR Ranking is successful in predicting international student
+university choice while the International Student Ranking is not. This
+difference could be contributed to low popularity and awareness of the
+International Student Ranking.
+
+\hypertarget{country-vs.-ranking}{%
+\paragraph{country vs.~ranking}\label{country-vs.-ranking}}
+
+It is suspected that there is a causal relationship between education
+quality (university ranking) and country selection. Higher ranking could
+drive more students to choose this country. Since in last section it was
+shown that only QR ranking has prediction power, it is used to test
+correlation between ranking and country. Because it was calculated that
+Australia attracts more international student, it is predicted to reside
+more universities with higher QR World ranking.
+
+university number in each country 33 uni, 8 new, 25 aus
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\NormalTok{c1}\OtherTok{=}\FunctionTok{which}\NormalTok{(country}\SpecialCharTok{==}\StringTok{\textquotesingle{}Australia\textquotesingle{}}\NormalTok{)}
+\NormalTok{c2}\OtherTok{=}\FunctionTok{which}\NormalTok{(country}\SpecialCharTok{==}\StringTok{\textquotesingle{}New Zealand\textquotesingle{}}\NormalTok{)}
+\NormalTok{aus}\OtherTok{=}\NormalTok{HE[c1,]}
+\NormalTok{nz}\OtherTok{=}\NormalTok{HE[c2,]}
+\NormalTok{aus\_rank}\OtherTok{=}\NormalTok{aus}\SpecialCharTok{$}\NormalTok{World.Ranking}
+\NormalTok{nz\_rank}\OtherTok{=}\NormalTok{nz}\SpecialCharTok{$}\NormalTok{World.Ranking}
+\end{Highlighting}
+\end{Shaded}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{boxplot}\NormalTok{(aus\_rank,nz\_rank,}
+        \AttributeTok{main=}\StringTok{"QR World Ranking of Australia vs. New Zealand Universities"}\NormalTok{,}
+        \AttributeTok{at =} \FunctionTok{c}\NormalTok{(}\DecValTok{1}\NormalTok{,}\DecValTok{2}\NormalTok{),}
+        \AttributeTok{names =} \FunctionTok{c}\NormalTok{(}\StringTok{"Australia"}\NormalTok{, }\StringTok{"New }
+\StringTok{                  Zealand"}\NormalTok{),}
+        \AttributeTok{las =} \DecValTok{2}\NormalTok{,}
+        \AttributeTok{col =} \FunctionTok{c}\NormalTok{(}\StringTok{"orange"}\NormalTok{,}\StringTok{"red"}\NormalTok{),}
+        \AttributeTok{border =} \StringTok{"brown"}\NormalTok{,}
+        \AttributeTok{horizontal =} \ConstantTok{TRUE}\NormalTok{,}
+        \AttributeTok{notch =} \ConstantTok{FALSE}
+\NormalTok{)}
+\end{Highlighting}
+\end{Shaded}
+
+\includegraphics{Driving-Factors-behind-University-Selection_files/figure-latex/unnamed-chunk-10-1.pdf}
+A side by side boxplot is chosen to present the difference in university
+rankings between two countries. The result matches previous prediction
+that Australia universities have higher QR ranking, as the minimum and
+first quartile of Australia universities are much higher than those of
+New Zealand universities. This could be one of the explanations as to
+why Australia is favored by more international university students.
+
+\hypertarget{conclusion}{%
+\subsubsection{Conclusion}\label{conclusion}}
+
+The analysis on data supports that both destination country and QR World
+ranking are strong driving factors behind internaitonal tertiary
+students' choice on university, while the International Student ranking
+is not as relevant, possibly due to low awareness and reputation.
+Therefore, countries that attracted large amount of international
+students previous to the Covid-19 pandemic are likely to remain their
+advantage and gain back the lost students. At the mean time,
+universities that achieve higher education quality and are able to
+obtain higher ranking on world-renowned university ranking systems can
+also gain more favoring among international students.
+
+\hypertarget{references}{%
+\subsubsection{References}\label{references}}
+
+Australian Bureau of Statistics 2022, Australia's overseas-born
+population drops during pandemic, ABS, viewed 20 September 2022,
+\url{https://www.abs.gov.au/media-centre/media-releases/australias-overseas-born-population-drops-during-pandemic}.
+
+Hipkins, HC 2018, International education contributes \$5.1 billion to
+New Zealand economy,Beehive.govt.nz,viewed 20 September 2022,
+\url{https://www.beehive.govt.nz/release/international-education-contributes-51-billion-new-zealand-economy\#:/~:text=\%E2\%80\%9C\%244.8\%20billion\%20is\%20attributed\%20to,only\%20nationally\%20but\%20also\%20regionally.}.
+
+Mazzarol, T \& Soutar, GN 2002, ``Push‐pull'' factors influencing
+international student destination choice, International Journal of
+Educational Management, vol.~16, no. 2, pp.~82-90,
+\url{https://doi.org/10.1108/09513540210418403}.
+
+McGowan, M 2018, Australian universities slip in world rankings amid
+funding cuts, The Guardian, viewed 20 September 2022,
+\url{https://www.theguardian.com/australia-news/2018/jun/09/universities-rely-too-much-on-foreign-student-fees-auditor-says}.
+
+Statista 2022, Export income from international education activity in
+Australia from financial years 2013 to 2019, viewed 20 September 2022,
+\url{https://www.statista.com/statistics/977688/australia-export-income-from-international-education-services/\#:/~:text=From\%202013\%20to\%202019\%20the,billion\%20Australian\%20dollars\%20in\%202019}.
+
+The University of Sydney 2020, How universities came to rely on
+international students, viewed 20 September 2022,
+\url{https://www.sydney.edu.au/news-opinion/news/2020/05/25/how-universities-came-to-rely-on-international-students.html}.
+
+\end{document}
