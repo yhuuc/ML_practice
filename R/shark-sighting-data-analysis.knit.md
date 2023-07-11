@@ -64,14 +64,14 @@ summary(cbind(species_count))
 boxplot(cbind(species_count))
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-3-1.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/1.png" width="672" />
 
 ```r
 species_top = species_count[which(species_count>10)]
 pie(species_top,main="Frequently Captured Shark Species",col=rainbow(length(species_top)),radius = 1)
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-3-2.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/2.png" width="672" />
     
    The number of different species of sharks captured by SCP within Queensland during 2016 is analyzed using five number summary and visualized into a boxplot and a pie chart named "Frequently Captured Shark Species". Note not all shark species are displayed in the pie chart, only species with counts greater than 10, in order to keep the diagram clean. There are 23 species in total with two cases of unknown species. The general capture number is relatively low, with an interquartile range from 1.75 to 22, and a mean of 22.17. Tiger shark is the most frequently captured species with 207 counts, and bull whaler follows behind. These two species appear far more than the others by noticeable difference, and appear as two outliers in the boxplot. This data is useful for research on shark attacks. Their commonness partly explains why tiger shark and bull shark are considered two of the three species that are most likely to attack human (Bull Shark n.d.). This could be contributed to their frequent encounter with human compared to other shark species rather than mere aggressiveness.
   
@@ -91,7 +91,7 @@ top2area=table(top2$Species.Name,top2$Area)
 barplot(top2area,axis.lty = 1,beside=T,legend = rownames(top2area),xlim=c(0,30),las=2,col=c("brown","darkblue"))
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-5-1.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/3.png" width="672" />
 
 ```r
 colnames(top2area)
@@ -116,7 +116,7 @@ top2month=table(top2$Species.Name,top2$Month)
 barplot(top2month,axis.lty = 1,beside=T,legend = rownames(top2month),las=2,col=c("brown","darkblue"),main="Northeast Coast Shark Sighting in 2016")
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-5-2.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/4.png" width="672" />
 
   To further investigate the behavior of tiger shark and bull whaler to avoid shark attack, their appearance in different areas and months are drawn and compared. From the two side-by-side bar charts, it can be observed these two species do prefer certain locations and months. Tiger sharks visit Mackay and Townsville most often while bull whalers stay at Capricorn Coast. Tiger sharks also appear more frequently in May while bull whalers appear most in February. These statistic are extremely helpful for tourists and swimmers to avoid potential shark attacks. They are also valuable research material of shark behavior along Australia's northeast shore in 2016.
 
@@ -136,7 +136,7 @@ ggscatter(coor,x="longitude_num",y="latitude_num",main="Correlatin between longi
 ## `geom_smooth()` using formula 'y ~ x'
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-6-1.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/5.png" width="672" />
 
   The correlation between longitudes and latitudes of capture locations is plotted in a scatter plot. The correlation coefficient and p-value are labeled. Note for simplicity only coordinate degrees are used, minutes and seconds are disregarded. The analysis found a statistically significant strong negative correlation between longitude and latitude. In other words, as the longitude increases the latitude decreases. Since Australia is in the southern hemisphere, this means as the capture location goes further north, it also goes further west. If the capture coordinates are connected on a map, they would form a slanting line, which is suspected to correspond to the Queensland coastline. This strong correlation is possibly caused by the strategic placement of fishing nets and drumlines along the coastline. It is useful in terms of locating the nets and drumlines precisely. Those interested such as researchers can use this information to observe the SCP in person, while swimmers, surfers and divers can avoid surrounding areas.   
 
@@ -200,7 +200,7 @@ z=mean(bull$Length..m.)
 barplot(cbind(x,y,z), names.arg = c("All shark species", "Tiger shark","Bull whaler" ),ylim=c(0,3.0),main="Length means comparison",col="lightblue1")
 ```
 
-<img src="shark-sighting-data-analysis_files/figure-html/unnamed-chunk-7-1.png" width="672" />
+<img src="https://github.com/yhuuc/data_analysis/blob/main/R/6.png" width="672" />
 
 ## Conclusion
 
