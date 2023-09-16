@@ -1,6 +1,6 @@
 # Intro
-This is a copy of my *data analysis* school assignments, including **R** and **Python** codes, report texts and original datasets.  
-  
+This repo is for examples of my *data analysis* school assignments, including **R** and **Python** codes, report texts and original datasets.  
+
 The topics involved are:
 - Python
   - [Multi-linear regression](https://github.com/yhuuc/data_analysis/blob/main/python/insurance%20%26%20house%20(multilinear%20regression).ipynb)
