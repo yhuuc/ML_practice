@@ -1,7 +1,6 @@
 # Intro
-This repo includes examples of my school projects implementing Machine Learning in data analysis, including link to original datasets, **R** & **Python** code and report .  
+This repo includes examples of my school projects implementing Machine Learning in data analysis, including link to original datasets, **R & Python** code and DA report. 
 
-The topics involved are:
 - Python
   - [Multi-linear regression](https://github.com/yhuuc/data_analysis/blob/main/python/insurance%20%26%20house%20(multilinear%20regression).ipynb)
   - [Time series analysis (ARIMA/SARIMA)](https://github.com/yhuuc/data_analysis/blob/main/python/Time%20series%20(CO2%20emission).ipynb)
