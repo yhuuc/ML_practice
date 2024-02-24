@@ -1,5 +1,5 @@
 # Intro
-This repo is for examples of my *data analysis* school assignments, including **R** and **Python** codes, report texts and original datasets.  
+This repo is for examples of my school projects implementing Machine Learning in data analysis, including link to original datasets, **R** & **Python** code and report .  
 
 The topics involved are:
 - Python
